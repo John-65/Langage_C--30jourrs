@@ -18,7 +18,7 @@ int main()
 
     // toute instruction en langage c est terminer par un point-virgule(;)
 
-    // PARTIE 2 : Variables et Types de données
+    // PARTIE 2 :Types de données
 
     // En C, chaque variable doit avoir un type précis.
 
