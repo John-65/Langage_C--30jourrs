@@ -30,7 +30,7 @@ int main()
     char ----> caractère */
 
     /*sizeof(): Permet de connaître la taille en mémoire d’un type.
-    Ainsi affichon à l' écrant avec printf la taille de ces types de base en mémoire */
+    Ainsi affichons à l' écran avec printf la taille de ces types de base en mémoire */
     printf("Taille de int : %zu octets\n", sizeof(int));
     printf("Taille de float : %zu octets\n", sizeof(float));
     printf("Taille de double : %zu octets\n", sizeof(double));
