@@ -29,7 +29,6 @@ int main() {
                 printf("5 x %d = %d\n", i, 5 * i);
             }
             break;
-
         case 3:
             // Si l'utilisateur choisit 3
             printf("Au revoir !\n");
